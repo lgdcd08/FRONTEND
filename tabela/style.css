@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background: url(img/ubuntu.jpg) no-repeat;
+}
+
+table{
+    width: 100%;
+    height: 100%;
+    border: 2px #000 solid; /*dotted,dashed,double,groove,ridge,solid,inset,outset*/
+    text-align: center;
+    border-spacing: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#menu{
+    background: #474749;
+    color: #FFF;
+ }
+
+td{
+    border: 2px #000 solid;
+    padding: 5px;
+}
+
+.rodape{
+    background: #8e8c8c;
+}
